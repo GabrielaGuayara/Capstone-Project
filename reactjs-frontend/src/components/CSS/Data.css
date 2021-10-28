@@ -1,0 +1,55 @@
+.btn{
+margin-right: 1rem;
+
+}
+table{
+    background-color: #ffffff;
+}
+
+.main-list{
+    height: 100%;
+    background: #9796f0; 
+    background: -webkit-linear-gradient(to right, #fbc7d4af, #9796f094);  
+    background: linear-gradient(to right, #fbc7d483, #9796f09d);
+}
+
+.main-comp{
+    height: 100vh;
+    background: #9796f0; 
+    background: -webkit-linear-gradient(to right, #fbc7d4af, #9796f094);  
+    background: linear-gradient(to right, #fbc7d483, #9796f09d); 
+    padding-top: 3rem;
+}
+
+.main-comp2{
+    height: 100%;
+    background: #9796f0; 
+    background: -webkit-linear-gradient(to right, #fbc7d4af, #9796f094);  
+    background: linear-gradient(to right, #fbc7d483, #9796f09d); 
+    padding-top: 1rem;
+}
+.btn.addproduct{
+    background-color: rgb(244, 250, 166);
+    color: rgb(107, 107, 45);
+    border: rgb(107, 107, 45) solid 2px ;
+}
+.btn.addproduct:hover{
+    background-color: rgb(228, 228, 0);
+    border: rgb(107, 107, 45) 2px solid;
+    color: rgb(107, 107, 45);
+}
+
+.btn.edit{
+    background-color: rgb(170, 93, 243);
+}
+.btn.edit:hover{
+    background-color: rgb(238, 37, 194);
+}
+.btn.view{
+    background-color: rgb(93, 243, 156);
+    border: green solid 2px;
+}
+.btn.view:hover{
+    background-color: rgb(3, 248, 44);
+    border: green solid 2px;
+}
